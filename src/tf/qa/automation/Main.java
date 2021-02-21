@@ -5,7 +5,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        int[] x = new int[]{8, 1, 4, 2, 20, 9, -5,500,-150};
+        int[] x = new int[]{8, 1, 4, 2, 20, 9, -5, 500, -150};
 
         System.out.println("До сортировки");
         for (int i = 0; i < x.length; i++) {
