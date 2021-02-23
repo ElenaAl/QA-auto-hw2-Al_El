@@ -1,3 +1,4 @@
+
 package tf.qa.automation;
 import java.util.Scanner;
 
@@ -102,4 +103,3 @@ public class Main {
 
     }
 }
-
